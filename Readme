@@ -3,6 +3,9 @@ This project provides a Python-based application that combines image steganograp
 
 DOWNLOAD OUR FIRST RELEASE FROM 
 
+UI: steganography_app.py
+BACKEND: encryption.py
+
 Features
 AES Encryption: Utilizes the PyCryptodome library to encrypt messages with AES-128 or AES-256 encryption standards.
 Image Steganography: Employs the Pillow library to embed encrypted messages into images using Least Significant Bit (LSB) steganography.
